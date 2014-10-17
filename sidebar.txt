@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rug:home|Door43 (rug)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rug|d43-rug repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rug/archive/master.zip|d43-rug.zip]]
+
+**Recent Changes**
+{{changes>ns = rug}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rug|Ethnologue data]]
+
